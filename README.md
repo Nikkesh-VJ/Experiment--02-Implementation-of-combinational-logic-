@@ -24,6 +24,7 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: 
 RegisterNumber:212222050042
 */
+```
 module exp2a (a, b, c, d, f1, f2);
 input a,b,c,d;
 output fl, f20
@@ -41,6 +42,7 @@ and (q, a, c);
 and (r,b,c);
 or (f2, p, q, r);
 endmodule
+```
 
 
 
