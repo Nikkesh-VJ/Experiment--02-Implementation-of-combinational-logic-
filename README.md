@@ -9,8 +9,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+### Hardware – PCs, Cyclone II , USB flasher
+### Software – Quartus prime
 
 
 ## Theory
@@ -29,7 +29,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Program:
 ```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
+Developed by: NIKKESH.V
 RegisterNumber:212222050042
 ```
 
